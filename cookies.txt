@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.vivendoamenopausa.pages.net.br	TRUE	/	FALSE	1999999999	__cf_bm	AVrWBFPTCE5KcxqrvQ6bokFCfQtbjP4OhERNahpM9Pw-1709607335-1.0.1.1-sQ99YveNI8PE4ON8BG3mx9MYayvHGVIn9z0V3YgwhF0hsWdxB66a5c2YjMuDtMPy0UpUs0yvckCTtA0uNEtC8w
+vivendoamenopausa.pages.net.br	TRUE	/	FALSE	1999999999	SameSite	None
+
